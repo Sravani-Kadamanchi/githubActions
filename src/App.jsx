@@ -5,7 +5,7 @@ const App = () => {
     <>
     <div>App</div>
     <p>Hello World!</p>
-    </>
+    </> 
   )
 }
  
